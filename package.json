@@ -1,6 +1,6 @@
 {
-  "name": "projeto-base",
-  "private": true,
+  "name": "rocket-pay",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "imask": "^6.4.3"
   }
 }
